@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" width="1500" height="500">
+  <title>APA Soft Tools</title>
+  <desc>Logo horizontal de APA Soft Tools en azul corporativo</desc>
+  <rect x="50" y="100" width="300" height="300" rx="60" ry="60" fill="#0A66C2"/>
+  <text x="200" y="270"
+        font-family="'Montserrat', 'Inter', 'Helvetica Neue', Arial, sans-serif"
+        font-weight="800"
+        font-size="95"
+        letter-spacing="-3"
+        fill="#FFFFFF"
+        text-anchor="middle">APA</text>
+  <text x="200" y="345"
+        font-family="'Montserrat', 'Inter', 'Helvetica Neue', Arial, sans-serif"
+        font-weight="400"
+        font-size="38"
+        letter-spacing="1"
+        fill="#FFFFFF"
+        text-anchor="middle">Soft Tools</text>
+  <text x="400" y="245"
+        font-family="'Montserrat', 'Inter', 'Helvetica Neue', Arial, sans-serif"
+        font-weight="800"
+        font-size="130"
+        letter-spacing="-4"
+        fill="#0A66C2">APA</text>
+  <text x="400" y="350"
+        font-family="'Montserrat', 'Inter', 'Helvetica Neue', Arial, sans-serif"
+        font-weight="400"
+        font-size="80"
+        fill="#003D82">Soft Tools</text>
+</svg>
