@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tvApasoftFooter"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Desarrollado por APASOFT"
+    android:textSize="10sp"
+    android:textColor="@color/cs_text_secondary"
+    android:gravity="center"
+    android:alpha="0.55"
+    android:paddingTop="4dp"
+    android:paddingBottom="8dp"
+    android:letterSpacing="0.05"/>

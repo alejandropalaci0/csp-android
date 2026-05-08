@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Fondo general estilo iOS dark -->
+    <color name="cs_background">#000000</color>
+
+    <!-- Tarjetas estilo Apple (gris muy oscuro) -->
+    <color name="cs_card">#1C1C1E</color>
+
+    <!-- Azul iOS -->
+    <color name="cs_primary">#0A84FF</color>
+    <color name="cs_primary_dark">#0060DF</color>
+
+    <!-- Texto -->
+    <color name="cs_text_primary">#FFFFFF</color>
+    <color name="cs_text_secondary">#8E8E93</color>
+
+    <!-- Bordes suaves -->
+    <color name="cs_border">#2C2C2E</color>
+
+</resources>

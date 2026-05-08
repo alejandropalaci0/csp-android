@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CuttingStockProblem" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/cs_background</item>
+        <item name="android:fontFamily">sans-serif</item> <!-- o Roboto/Inter -->
+        <item name="colorPrimary">@color/cs_primary</item>
+        <item name="colorPrimaryVariant">@color/cs_primary_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+</resources>

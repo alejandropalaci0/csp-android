@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.CSP" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:fontFamily">sans-serif</item>
+
+        <!-- Fondo general -->
+        <item name="android:windowBackground">@color/cs_background</item>
+
+        <!-- Colores principales -->
+        <item name="colorPrimary">@color/cs_primary</item>
+        <item name="colorPrimaryVariant">@color/cs_primary_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <!-- Superficie -->
+        <item name="colorSurface">@color/cs_card</item>
+        <item name="colorOnSurface">@color/cs_text_primary</item>
+
+        <!-- Botones -->
+        <item name="materialButtonStyle">@style/CSP.Button</item>
+    </style>
+
+    <style name="CSP.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="backgroundTint">@color/cs_primary</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+
+</resources>
