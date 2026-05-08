@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="APA Soft Tools" width="480" />
+</p>
+
 # CSP — Cutting Stock Problem Solver for Android
 
 > Native Android application that minimizes raw-material waste when cutting metal bars
@@ -173,5 +177,5 @@ This project is released under the [MIT License](LICENSE).
 
 ## Author
 
-Developed by **APASOFT**.
+Developed by **APASOFT**, part of the **APA Soft Tools** product family.
 For questions or commercial inquiries, please open an issue on this repository.
